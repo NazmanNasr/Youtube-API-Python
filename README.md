@@ -8,4 +8,4 @@ Kids entertainment are dominating the YouTube channels. As a babysitter, I too w
 4. Ejen Ali
 5. Omar & Hana - Lagu Kanak - Kanak Islam
 
-Let's dive into the Python project: [Youtube API Analysis]{NazmanNasr/Youtube-API-Python/youtube-api.ipynb}
+Click here to open the Python project: [Youtube API Analysis]{https://github.com/NazmanNasr/Youtube-API-Python/blob/main/youtube-api.ipynb}
